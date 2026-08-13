@@ -1,1 +1,1 @@
-# sales-analysis-python
+# Sales Analysis — Python ## What this project does Analyzes retail sales data to find top-performing regions and product categories using Python and Pandas. ## Tools used - Python 3.11 - Pandas - Matplotlib / Seaborn - SQL (via pandasql) ## What I found - West region had highest total revenue - Electronics was the top product category - Q4 showed strongest quarter-over-quarter growth ## Files - final_project.py — main analysis script - chart1_region.png — sales by region - chart2_category.png — sales by category
